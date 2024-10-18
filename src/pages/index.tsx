@@ -8,6 +8,8 @@ export default function Home() {
       <p> Lucas' hair is very yummu.</p>
       <p> Jason is working on the site currently</p>
       <p>hello sexy people I love lucas!!!!</p>
+      <p>yoyoyoyoyo this sammy in this mf!!!</p>
+      <p>tae some nice toes</p>
      </main>
     </div>
   )
